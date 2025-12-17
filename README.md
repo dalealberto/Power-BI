@@ -9,7 +9,7 @@
 
 ### Data Modelling: 
 <a href="https://github.com/dalealberto/Power-BI/blob/main/Data%20Modelling%20Sample.png">
-<img src = "https://github.com/dalealberto/Power-BI/blob/main/Data%20Modelling%20Sample.png?raw=true" width ="500">?raw=true" width ="500">
+<img src = "https://github.com/dalealberto/Power-BI/blob/main/Data%20Modelling%20Sample.png?raw=true" width ="500">
 </a>
 
 <br>
