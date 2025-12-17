@@ -1,5 +1,10 @@
 ## *Power BI*
 
+### Dashboard Sample:
+<a href="https://github.com/dalealberto/Power-BI/blob/main/Dashboard.png">
+<img src = "https://github.com/dalealberto/Power-BI/blob/main/Dashboard.png?raw=true" width ="500">
+</a>
+
 ### Power Query (ETL): 
 <a href="https://github.com/dalealberto/Power-BI/blob/main/Power%20Query%20(ETL).png">
   <img src="https://github.com/dalealberto/Power-BI/blob/main/Power%20Query%20(ETL).png?raw=true" width="500">
@@ -14,7 +19,4 @@
 
 <br>
 
-### Dashboard:
-<a href="https://github.com/dalealberto/Power-BI/blob/main/Dashboard.png">
-<img src = "https://github.com/dalealberto/Power-BI/blob/main/Dashboard.png?raw=true" width ="500">
-</a>
+
