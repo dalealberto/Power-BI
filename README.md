@@ -15,4 +15,6 @@
 <br>
 
 ### Dashboard:
-
+<a href="https://github.com/dalealberto/Power-BI/blob/main/Dashboard.png">
+<img src = "https://github.com/dalealberto/Power-BI/blob/main/Dashboard.png?raw=true" width ="500">
+</a>
